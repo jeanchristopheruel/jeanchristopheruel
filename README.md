@@ -29,7 +29,7 @@
 - **Programming Languages**: C++, Python, JavaScript
 - **Web Development**: React, Next.js, Django, HTML, CSS
 - **Tools & Technologies**: Git, Docker, Linux
-- **Software Development**:  Eigen, StanMath, CUDA, CuBlas, TensorRt, OpenCV, OpenGl, Pytorch, Pytorch3D, TensorFlow, Gstearmer, Three.js, etc.
+- **Software Development**:  Eigen, StanMath, CUDA, CuBlas, TensorRt, OpenCV, OpenGl, Blender API, Pytorch, Pytorch3D, TensorFlow, Gstearmer, Three.js, etc.
 - **Cloud Platforms**: Azure, AWS, GCP
 - **Development Practices**: RAII, type erasure, metaprogramming, concepts, C++11/14/17/20
 

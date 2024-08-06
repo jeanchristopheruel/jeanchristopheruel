@@ -55,7 +55,7 @@
 - 🚀 Constantly learning and staying updated with the latest trends in AI and robotics.
 - 🌟 Open to collaboration on innovative projects and research in AI and robotics.
 - ✈️ I was a board member for one year at the Gliding Club of Quebec.
-- 🧗‍♂️ I've led [Time Wave Zero](https://www.mountainproject.com/route/106087605/time-wave-zero), one of the longest sport climbs in the world (2300ft).
+- 🧗‍♂️ I've led [Time Wave Zero](https://www.mountainproject.com/route/106087605/time-wave-zero) with a friend, one of the longest sport climbs in the world (2300ft).
 
 ---
 

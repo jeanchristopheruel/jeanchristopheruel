@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 🔭 Passionate about robotics and AI, with a focus on computer vision and predictive control systems.
+- 🔭 Passionate about robotics and AI, with a focus on high-performance real-time systems such as computer vision and predictive control systems.
 - 🌱 Currently diving into React and Django, while continuing to advance my skills in Python and C++.
 - 👨‍💻 Committed to software quality and end-user satisfaction.
 - 🎓 Holding a Master's degree in Robotics and AI, with 5 years of experience in the field.

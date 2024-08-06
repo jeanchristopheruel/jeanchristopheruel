@@ -20,7 +20,7 @@
 
 - **Master's Thesis at Université Laval**: Developed a 6-DoF pose estimation system for specular objects to enable autonomous grasping. This project involved a deep understanding of digital vision principles and high-performance imaging systems in C++, including the design and realization of a specialized camera.
 - **Ro-main Inc.**: As one of the first three developers on the "SmartCounting" product, I designed a Kalman filter for multi-target tracking on GPU and accelerated AI model inference using TensorRT, CuBlas, and CUDA in C++. This product is now sold internationally.
-- **Elmec Inc. (2021-2024)**: Led the development of a parallax-free multispectral stereoscopic camera for low-altitude imagery aboard a DJI M300 drone. This role encompassed the entire project lifecycle, from selecting sensors and designing the opto-mechanical system to developing image processing algorithms and conducting real-world tests to ensure robustness and accuracy in an agricultural setting. Additionally, I managed and developed a predictive controller in C++ based on a fully differentiable rigid body dynamics library I developped using Eigen3.
+- **Elmec Inc.**: Led the development of a parallax-free multispectral stereoscopic camera for low-altitude imagery aboard a DJI M300 drone. This role encompassed the entire project lifecycle, from selecting sensors and designing the opto-mechanical system to developing image processing algorithms and conducting real-world tests to ensure robustness and accuracy in an agricultural setting. Additionally, I managed and developed a predictive controller in C++ based on a fully differentiable rigid body dynamics library I developped using Eigen3.
 
 ---
 

@@ -35,6 +35,12 @@
 
 ---
 
+## Most Recent Contributions
+
+1. [OpenFDCM](https://github.com/Innoptech/OpenFDCM) -> A high-performance C++ library for Fast Directional Chamfer Matching, optimized for template matching on untextured objects.
+2. [OpenSTL](https://github.com/Innoptech/OpenSTL) -> The fastest and most intuitive library to manipulate STL files (stereolithography) for C++ and Python, header-only.
+3. [Packio](https://github.com/Innoptech/Packio) -> A C++ library for clean, fast and safe serialization and deserialization of data types.
+
 ## Favorite C++ Books
 
 1. [Clean Code by Robert C. Martin](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
